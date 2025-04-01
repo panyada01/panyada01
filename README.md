@@ -5,6 +5,7 @@ student
 -------
 
 Backend Developer Intern | Python & Odoo
+ข้อมูลบางส่วนไม่สามารถเผยแพ่ได้ เนื่องจากลิขสิทธิ์
 
 * 🌍  I'm based in Khon Kaen, Thailand
 * ✉️  You can contact me at [panyada.ph@gmail.com](mailto:panyada.ph@gmail.com)
